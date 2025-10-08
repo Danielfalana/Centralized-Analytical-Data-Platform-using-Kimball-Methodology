@@ -51,7 +51,7 @@ The ETL process was designed to:
 
 📁 **Documentation:**
 - [Source to Target Mapping - Fact Tables](./SourceTargetMapping-Fact.xlsx)  
-- [Source to Target Mapping - Dimension Tables](./Source%20to%20Target%20Mapping%20-%20Dimension.xlsx)
+- [Source to Target Mapping - Dimension Tables](./SourcetoTargetMapping-Dimension.xlsx)
 
 🧱 **SQL Scripts:**
 > *(Placeholder for SQL scripts — add links once uploaded)*  
