@@ -55,7 +55,7 @@ The ETL process was designed to:
 
 🧱 **SQL Scripts:**
 > *(Placeholder for SQL scripts — add links once uploaded)*  
-> - [ETL SQL Scripts Folder](./SQL_Scripts/)
+> - [ETL SQL Scripts Folder](./BBY_Scritps.sql/)
 
 ---
 
