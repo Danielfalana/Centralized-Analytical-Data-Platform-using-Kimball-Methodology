@@ -78,8 +78,8 @@ ETL pipelines were **automated using SQL Server Agent** and configured to run du
 
 
 📁 **Documentation:**
-- [Source to Target Mapping - Dimension Tables](Documentations/Documentations/Source_to_Target_Mapping-Dimension.xlsx)  
-- [Source to Target Mapping - Fact Tables](Documentations/Documentations/Source_to_Target_Mapping-Fact.xlsx)
+- [Source to Target Mapping - Dimension Tables](Documentations/Source_to_Target_Mapping-Dimension.xlsx)  
+- [Source to Target Mapping - Fact Tables](Documentations/Source_to_Target_Mapping-Fact.xlsx)
 
 
 ---
@@ -121,7 +121,7 @@ This system monitors ETL success, captures record counts, and isolates anomalies
 
 ## 👥 Stakeholder & Requirements Management
 Key documentation artifacts created to ensure alignment between business and technical teams:
-- [Solution Requirements](Documentations/BBY Grocery Store Business Requirements.docx)  
+- [Solution Requirements](Documentations/BBY_Grocery_Store_Business_Requirements.docx)  
 - [Stakeholder Matrix](Documentations/Stakeholder_Matrix.xlsx)
 
 These deliverables helped define scope, identify data owners, and ensure each business unit’s analytical needs were addressed.
