@@ -1,4 +1,4 @@
-# 📊 Enterprise Data Warehouse Architecture & Modeling (Kimball Methodology)
+
 
 ## 🏗 Introduction
 This project demonstrates the end-to-end design and implementation of a **modern Enterprise Data Warehouse (EDW)** solution.  
