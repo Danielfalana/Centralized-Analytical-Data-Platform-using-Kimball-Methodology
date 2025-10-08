@@ -50,8 +50,8 @@ The ETL process was designed to:
 - Load transformed data into the Enterprise Data Warehouse (EDW)
 
 📁 **Documentation:**
-- [Source to Target Mapping - Fact Tables](./Source%20to%20Target%20Mapping%20-%20Fact....xlsx)  
-- [Source to Target Mapping - Dimension Tables](./Source%20to%20Target%20Mapping%20-%20Dime....xlsx)
+- [Source to Target Mapping - Fact Tables](./Source%20to%20Target%20Mapping%20-%20Fact.xlsx)  
+- [Source to Target Mapping - Dimension Tables](./Source%20to%20Target%20Mapping%20-%20Dimension.xlsx)
 
 🧱 **SQL Scripts:**
 > *(Placeholder for SQL scripts — add links once uploaded)*  
